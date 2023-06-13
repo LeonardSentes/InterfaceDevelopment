@@ -1,0 +1,112 @@
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Interface Development.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Interface Development.pdb
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Interface Development.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\csc.exe
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\csc.exe.config
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\csc.rsp
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\csi.exe
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\csi.exe.config
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\csi.rsp
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.AppContext.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Console.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.IO.Compression.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Net.Http.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Net.Sockets.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.ValueTuple.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Xml.XPath.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\vbc.exe
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\vbc.exe.config
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\vbc.rsp
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\VBCSCompiler.exe
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Antlr3.Runtime.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\EntityFramework.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\EntityFramework.SqlServer.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Newtonsoft.Json.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Owin.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.Helpers.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.Mvc.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.Optimization.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.Razor.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.WebPages.Deployment.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.WebPages.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.WebPages.Razor.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\WebGrease.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.Helpers.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.Mvc.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.Optimization.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.Razor.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.WebPages.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.WebPages.Deployment.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\System.Web.WebPages.Razor.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Newtonsoft.Json.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Antlr3.Runtime.pdb
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\EntityFramework.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\EntityFramework.SqlServer.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\obj\Debug\Interface Development.vbproj.AssemblyReference.cache
+C:\Users\λεο\source\repos\Interface Development\Interface Development\obj\Debug\Interface_Development.Resources.resources
+C:\Users\λεο\source\repos\Interface Development\Interface Development\obj\Debug\Interface Development.vbproj.GenerateResource.cache
+C:\Users\λεο\source\repos\Interface Development\Interface Development\obj\Debug\Interface Development.vbproj.CoreCompileInputs.cache
+C:\Users\λεο\source\repos\Interface Development\Interface Development\obj\Debug\Interface Development.vbproj.CopyComplete
+C:\Users\λεο\source\repos\Interface Development\Interface Development\obj\Debug\Interface Development.dll
+C:\Users\λεο\source\repos\Interface Development\Interface Development\obj\Debug\Interface Development.xml
+C:\Users\λεο\source\repos\Interface Development\Interface Development\obj\Debug\Interface Development.pdb
+C:\Users\λεο\source\repos\Interface Development\Interface Development\bin\Interface Development.dll.config
